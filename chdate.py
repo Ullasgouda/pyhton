@@ -3,7 +3,7 @@ month = int(input("Enter the month :"))
 year = int(input("Enter the year  :"))
 if (month >= 1 and month <= 12):
     if (month == 2):
-        if (year % 400 == 0):
+        if (year % 4 and year % 100 != 0):
             day = 29
         else:
             day = 28
@@ -12,6 +12,7 @@ if (month >= 1 and month <= 12):
     else:
         day = 31
     if (date > 1 and date < day):
+
         print("valid Date")
     else:
         print("Invaid Date")
