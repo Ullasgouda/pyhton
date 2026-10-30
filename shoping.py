@@ -28,8 +28,8 @@ elif (total > 4000 and total < 5000):
     print("you are getting 5 off")
     disc = 5
 elif (total > 3000 and total < 4000):
-    print("you are getting 4 off")
     disc = 4
+    print("you are getting 4 off", disc)
 elif (total > 2000 and total < 3000):
     print("you are getting 3 off")
     disc = 3
