@@ -1,0 +1,189 @@
+Here is the complete text extracted from your **while.docx** file, containing 80 Python While Loop questions.
+
+# **Questions on While Loop in Python**
+
+**Concepts:** Initialization, condition, increment, decrement, counters.
+
+1. Print numbers from 1 to 10.
+2. Print numbers from 10 to 1 in reverse order.
+3. Print all even numbers from 1 to 50.
+4. Print all odd numbers from 1 to 50.
+5. Print numbers from 1 to N.
+6. Print numbers from N to 1.
+7. Find the sum of numbers from 1 to N.
+8. Find the sum of all even numbers from 1 to N.
+9. Find the sum of all odd numbers from 1 to N.
+10. Print the multiplication table of a given number.
+11. Count how many numbers are between 1 and 100 that are divisible by 5.
+12. Print multiples of 7 up to 100.
+13. Find the average of numbers from 1 to N.
+14. Print the squares of numbers from 1 to N.
+15. Print the cubes of numbers from 1 to N.
+
+**Concepts:** Modulus %, integer division //, digit extraction.
+
+16. Count the number of digits in a given number.
+17. Find the sum of digits of a number.
+18. Find the product of digits of a number.
+19. Reverse a given number.
+20. Check whether a number is a palindrome.
+21. Find the first digit of a number.
+22. Find the last digit of a number.
+23. Find the sum of the first and last digits.
+24. Count the number of even and odd digits.
+25. Find the largest digit in a number.
+26. Find the smallest digit in a number.
+27. Count how many times a particular digit occurs.
+28. Remove the last digit repeatedly and display each remaining number.
+29. Check whether a number contains zero.
+30. Find the sum of squares of all digits.
+
+**Concepts:** Mathematical operations, nested while loops, conditions, counters.
+
+31. Check whether a number is prime.
+32. Print all prime numbers between 1 and N.
+33. Find the factorial of a number.
+34. Find the power of a number without using `**`.
+35. Find the GCD (Greatest Common Divisor) of two numbers.
+36. Find the LCM (Least Common Multiple) of two numbers.
+37. Check whether a number is an Armstrong number.
+38. Check whether a number is a Perfect number.
+39. Check whether a number is a Strong number.
+40. Check whether a number is a Harshad number.
+41. Check whether a number is a Neon number.
+42. Check whether a number is a Spy number.
+43. Check whether a number is a Duck number.
+44. Check whether a number is an Automorphic number.
+45. Generate the Fibonacci series up to N terms.
+
+**Pattern programs**
+
+46\. Print the following pattern:
+
+```
+*
+**
+***
+****
+*****
+```
+
+47\. Print an inverted triangle:
+
+```
+*****
+****
+***
+**
+*
+```
+
+48\. Print a right-aligned triangle:
+
+```
+*
+**
+***
+****
+*****
+```
+
+49\. Print a square pattern:
+
+```
+*****
+*****
+*****
+*****
+*****
+```
+
+50\. Print a number triangle:
+
+```
+1
+12
+123
+1234
+12345
+```
+
+51\. Print the following pattern:
+
+```
+1
+22
+333
+4444
+55555
+```
+
+52\. Print an inverted number triangle:
+
+```
+12345
+1234
+123
+12
+1
+```
+
+53\. Print a pyramid:
+
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+54\. Print Floyd's triangle:
+
+```
+1
+2 3
+4 5 6
+7 8 9 10
+```
+
+55\. Print a multiplication table from 1 to 5 using nested while loops.
+
+**Concepts:** Searching, counting, mathematical algorithms, repeated operations, optimization.
+
+56. Find the factors of a number.
+57. Count the total factors of a number.
+58. Find the second-largest digit in a number.
+59. Check whether two numbers are co-prime.
+60. Convert Decimal to Binary without using `bin()`.
+61. Convert Binary to Decimal without using `int(binary, 2)`.
+62. Check whether a number is a palindrome without reversing it.
+63. Find all Armstrong numbers between 1 and 1000.
+64. Find the digital root of a number.
+65. Find the HCF of multiple numbers.
+66. Generate prime numbers using the Sieve-like repeated marking approach. (Challenge: implement with arrays and while loops.)
+67. Find whether a number is a Happy Number.
+68. Find whether a number is a Disarium Number.
+69. Find the frequency of every digit in a number.
+70. Find the next prime number after a given number.
+
+**Real-world scenario-based questions**
+
+These questions help students apply while loops to real-world problems.
+
+71. **ATM Machine:** Allow withdrawals until the balance becomes insufficient or the user exits.
+72. **Bank Account:** Accept deposits until the user enters 0. Calculate total deposits.
+73. **Student Marks:** Accept marks for multiple students until -1 is entered. Calculate average marks.
+74. **Shopping Cart:** Accept product prices until the user enters 0. Calculate total bill.
+75. **Password System:** Allow only 3 attempts to enter the correct password.
+76. **Mobile Recharge:** Keep accepting recharge amounts until the user exits.
+77. **Electricity Bill:** Accept monthly electricity units until -1 is entered. Calculate total units.
+78. **Number Guessing Game:** Generate a random number and allow the user to guess until correct.
+79. **Login System:** Ask for username and password until valid credentials are entered or attempts finish.
+80. **Restaurant Billing:** Allow customers to add food items repeatedly until they choose checkout.
+
+**Total: 80 Python While Loop practice questions.**
+
+These are organized in the same order as your uploaded document.&#x20;
+
+while.docx

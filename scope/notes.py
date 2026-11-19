@@ -18,3 +18,4 @@
 # | Enclosing | Inside the outer function.                                   |
 # | Global    | At the module/program level.                                 |
 # | Built-in  | Predefined Python names such as `len()`, `print()`, `sum()`. |
+# encolsing scope is occerd when the function is defind inside another fuction
