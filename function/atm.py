@@ -11,13 +11,16 @@ def atm():
 
         def detail():
             pin = int(input("Enter the pin : "))
-            csah = int(input("enter how much cash do u want to withdrawal: "))
-            balens = (bal-csah)
+
             if (len(str(pin)) == 4):
                 print("valid ")
+                csah = int(
+                    input("enter how much cash do u want to withdrawal: "))
+                balens = (bal-csah)
+                print("Banlense ofter withdrowal", balens)
             else:
                 print("Invalid")
-            print("Banlense ofter withdrowal", balens)
+
         detail()
     else:
         print("invalid balence ")
